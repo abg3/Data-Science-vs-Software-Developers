@@ -1,4 +1,4 @@
-# Data Science vs Software Developers
+# Data Scientists vs Software Developers
  A survey analyis of Stack Overflow Developer Survey Results 2019
 
 # Project Motivation
@@ -11,7 +11,7 @@ The motivation behind this analysis is to explore how data scientists compare wi
 - Do data scientists prefer to work from home than software developers? (P.S.- I am looking forward for the survey responses of 2020)
 - Among the two, who has a better work life balance?
 
-Installations
+# Installations
 
 Jupyter Notebooks (Anaconda Distribution)
 Python 3.x 
@@ -23,13 +23,13 @@ Pandas
 Matplotlib
 Seaborn
 
-# File Descriptions
+# Files
 
 'Data Scientists vs Software Developers.ipynb': Jupyter notebook containing the analysis
 'Data Scientists vs Software Developers.html': Jupyter notebook containing the analysis in HTML format
-'survey_results_public.csv': main data file with all survey data (excluding text responses)
-'questions_only.csv': data file with question names and descriptions
-'survey_results_schema.csv': data file with survey schema, showing if respondents have been excluded from certain questions based on answers to other questions
+'survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
+'survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+'so_survey_2019.pdf - PDF file of survey instrument
 
 # Summary of Results
 
@@ -37,7 +37,6 @@ Seaborn
 - Secondly, formal education is not the only source of knowledge to become a data scientist. This journey strongly revolves around industry certifications, online courses and open source contributions.
 - The programming languages for a data scientist is not limited to Python and SQL. If you are someone who enjoys shell scripting or  front end development, data science may be a career for you. These skills are becoming popular for ML cloud platforms and data storytelling.
 - Software development is an integral part to become a data scientist. Predominantly, professional software developers have shown satisfaction in a data science career. Both professions have a good work life balance, and the survey results demonstrate a unique resemblance between the two i.e the proportion of people spending a better life than not is almost same irrespective of being a software developer or a data scientist.
-
 
 # Legal
 
