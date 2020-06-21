@@ -11,6 +11,10 @@ The motivation behind this analysis is to explore how data scientists compare wi
 - Do data scientists prefer to work from home than software developers? (P.S.- I am looking forward for the survey responses of 2020)
 - Among the two, who has a better work life balance?
 
+If you are curious to find out the answers quickly, you can visit my blog post for a short and insightful preview. Here is the link-
+
+https://medium.com/@abg_85948/should-you-choose-data-science-if-you-dont-enjoy-software-development-312d0aab1479
+
 # Installations
 
 - Jupyter Notebooks (Anaconda Distribution)
