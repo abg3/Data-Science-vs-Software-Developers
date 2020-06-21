@@ -36,7 +36,7 @@ Required packages:
 - Most data scientists have advanced degrees such as Masters/PhD and they are emerging from various backgrounds. However, majority of the respondents from the data science community studied Computer Science in their undergraduate majors. 
 - Secondly, formal education is not the only source of knowledge to become a data scientist. This journey strongly revolves around industry certifications, online courses and open source contributions.
 - The programming languages for a data scientist is not limited to Python and SQL. If you are someone who enjoys shell scripting or  front end development, data science may be a career for you. These skills are becoming popular for ML cloud platforms and data storytelling.
-- Software development is an integral part to become a data scientist. Predominantly, professional software developers have shown satisfaction in a data science career. Both professions have a good work life balance, and the survey results demonstrate a unique resemblance between the two i.e the proportion of people spending a better life than not is almost same irrespective of being a software developer or a data scientist.
+- Software development is an integral part to become a data scientist. Predominantly, professional software developers have shown satisfaction in a data science career. Programming knowledge is critical to ensure success in the field of data science. Both professions have a good work life balance, and the survey results demonstrate a unique resemblance between the two i.e software development and data science complement each other and the latter is incomplete without the former.
 
 # Legal
 
