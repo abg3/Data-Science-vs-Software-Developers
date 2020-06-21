@@ -13,23 +13,23 @@ The motivation behind this analysis is to explore how data scientists compare wi
 
 # Installations
 
-Jupyter Notebooks (Anaconda Distribution)
-Python 3.x 
+- Jupyter Notebooks (Anaconda Distribution)
+- Python 3.x 
 
 Required packages:
 
-NumPy
-Pandas
-Matplotlib
-Seaborn
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
 
 # Files
 
-'Data Scientists vs Software Developers.ipynb': Jupyter notebook containing the analysis
-'Data Scientists vs Software Developers.html': Jupyter notebook containing the analysis in HTML format
-'survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
-'survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
-'so_survey_2019.pdf - PDF file of survey instrument
+- Data Scientists vs Software Developers.ipynb': Jupyter notebook containing the analysis
+- Data Scientists vs Software Developers.html': Jupyter notebook containing the analysis in HTML format
+- survey_results_public.csv - CSV file with main survey results, one respondent per row and one column per answer
+- survey_results_schema.csv - CSV file with survey schema, i.e., the questions that correspond to each column name
+- so_survey_2019.pdf - PDF file of survey instrument
 
 # Summary of Results
 
